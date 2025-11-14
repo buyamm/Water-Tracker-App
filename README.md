@@ -367,12 +367,12 @@ water-tracker/
 
 ### Màn hình chính
 
-![Main Screen](./screenshots/1.%20Màn%20hình%20chính%20khi%20chưa%20uống%20nước.png.png)
+![Main Screen](./screenshots/1.%20Màn%20hình%20chính%20khi%20chưa%20uống%20nước.png)
 _Hiển thị tổng lượng nước và nút thêm nhanh_
 
 ### Màn hình lịch sử
 
-![History Screen](./screenshots/2.%20Lịch%20sử%20rỗng.png.png)
+![History Screen](./screenshots/2.%20Lịch%20sử%20rỗng.png)
 _Danh sách chi tiết lịch sử uống nước_
 
 ---
