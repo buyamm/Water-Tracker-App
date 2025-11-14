@@ -418,13 +418,13 @@ cd ../..
 ---
 
 ## 🔐 License
-
+com
 Dự án này được phát triển cho mục đích học tập.
 
 ---
 
 ## 📞 Liên hệ
 
-- **Email:** nguyenvana@example.com
-- **GitHub:** [@your-username](https://github.com/your-username)
-- **Facebook:** [Your Name](https://facebook.com/yourname)
+- **Email:** truongcongly139@gmail.com
+- **GitHub:** [@your-username](https://github.com/buyamm)
+
